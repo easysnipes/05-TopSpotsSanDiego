@@ -1,21 +1,22 @@
- {
-  "name": "06-TopSpotsSanDiego",
-  "main": "Top spots JS",
-  "description": "This is my TopSpots project",
-  "keywords": [
-    "TopSpots"
-  ],
+{
+  "name": "06-SanDiegoTopSpots1",
+  "main": "index.js",
   "authors": [
-    "S. Boykin"
+    "Stephen_Boykin"
+  ],
+  "description": "TopSpots-Bower",
+  "keywords": [
+    "San",
+    "Diego",
+    "vacation",
+    "california",
+    "sunny",
+    "beach",
+    "bars",
+    "zoos",
+    "balboa",
+    "park"
   ],
   "license": "MIT",
-  "homepage": "",
-  "private": true,
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ]
+  "homepage": "index.html"
 }
